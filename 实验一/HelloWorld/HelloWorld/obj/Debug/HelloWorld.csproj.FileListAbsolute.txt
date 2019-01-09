@@ -1,0 +1,7 @@
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\作业\可视化程序设计C#\实验一\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

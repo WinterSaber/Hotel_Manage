@@ -1,0 +1,11 @@
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\bin\Debug\VisualPrograming_experiment3-2.exe.config
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\bin\Debug\VisualPrograming_experiment3-2.exe
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\bin\Debug\VisualPrograming_experiment3-2.pdb
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3_2.Properties.Resources.resources
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3-2.csproj.GenerateResource.cache
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3-2.csproj.CoreCompileInputs.cache
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3-2.exe
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3-2.pdb
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3_2.Form1.resources
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3-2.csprojAssemblyReference.cache
+D:\作业\可视化程序设计C#\实验三\VisualPrograming_experiment3-2\VisualPrograming_experiment3-2\obj\Debug\VisualPrograming_experiment3_2.Form2.resources

@@ -1,0 +1,7 @@
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\bin\Debug\VisualProgramming_Experiment2.exe.config
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\bin\Debug\VisualProgramming_Experiment2.exe
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\bin\Debug\VisualProgramming_Experiment2.pdb
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\obj\Debug\VisualProgramming_Experiment2.csprojAssemblyReference.cache
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\obj\Debug\VisualProgramming_Experiment2.csproj.CoreCompileInputs.cache
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\obj\Debug\VisualProgramming_Experiment2.exe
+D:\作业\可视化程序设计C#\实验二\VisualProgramming_Experiment2\VisualProgramming_Experiment2\obj\Debug\VisualProgramming_Experiment2.pdb
